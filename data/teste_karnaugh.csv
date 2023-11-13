@@ -1,0 +1,274 @@
+{'form_question': 'Q1_Karnaugh', 'answer': "[['ab'], ['.0']]", 'id': '6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c', 'generate_time': '14_15_6', 'send_time': '14_15_36', 'session_start_time': '14_2_40', 'params': []}
+
+{'form_question': 'Q1_Karnaugh', 'answer': "[['ab'], ['.0']]", 'id': '6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c', 'generate_time': '14_15_36', 'send_time': '14_16_18', 'session_start_time': '14_2_40', 'params': []}
+
+{'form_question': 'Q1_Karnaugh', 'answer': "[['ab'], ['.0']]", 'id': '6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c', 'generate_time': '14_16_18', 'send_time': '14_16_58', 'session_start_time': '14_2_40', 'params': []}
+
+{'form_question': 'Q1_Karnaugh', 'answer': "[['ab'], ['.0']]", 'id': '6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c', 'generate_time': '14_16_58', 'send_time': '14_17_38', 'session_start_time': '14_2_40', 'params': []}
+[['ab'], ['.0']] []
+
+{'form_question': 'Q1_Karnaugh', 'answer': "[['ab'], ['.0']]", 'id': '6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c', 'generate_time': '14_17_38', 'send_time': '14_17_45', 'session_start_time': '14_2_40', 'params': []}
+[['ab'], ['.0']] []
+
+{'form_question': 'Q1_Karnaugh', 'answer': "[['ab'], ['.0']]", 'id': '6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c', 'generate_time': '14_17_45', 'send_time': '14_18_9', 'session_start_time': '14_2_40', 'params': []}
+
+[['ab'], ['.0']]
+
+[['ab'], ['.0']] []
+
+[['ab'], ['.0']] ['SHOW_SOLUTION']
+
+<class 'str'> ['SHOW_SOLUTION']
+
+[['ab'], ['.0']] ['SHOW_SOLUTION']
+
+[['ab'], ['.0']]
+
+['abc', '11.']
+
+['ab', '..'] <class 'str'>
+
+['ab', '..'] <class 'list'>
+eueue
+Q1_Karnaugh;[True, '..'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;14_24_59;14_29_30;14_2_40;['SHOW_SOLUTION'];True
+['ab', '..'] <class 'list'>
+eueue
+Q1_Karnaugh;[True, '..'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;14_29_30;14_30_7;14_2_40;['SHOW_SOLUTION'];True
+['ab', '..'] <class 'list'>
+eueue
+Q1_Karnaugh;[True, '..'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;14_30_7;14_30_17;14_2_40;['SHOW_SOLUTION'];True
+eueue
+Q1_Karnaugh;[True, '10'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;14_59_19;14_59_21;14_2_40;[]
+eueue
+Q1_Karnaugh;[True, '10'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;14_59_21;14_59_29;14_2_40;['SHOW_SOLUTION'];True
+eueue
+Q1_Karnaugh;[True, '00.'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;15_21_26;15_21_29;14_2_40;[]
+eueue
+Q1_Karnaugh;[True, '.1.'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;15_22_5;15_22_8;14_2_40;['SHOW_SOLUTION'];abcd
+eueue
+Q1_Karnaugh;[True, '0.1'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;15_22_43;15_22_51;14_2_40;['SHOW_SOLUTION'];abcd
+eueue
+Q1_Karnaugh;[True, '0.1'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;15_22_51;15_23_36;14_2_40;['SHOW_SOLUTION'];Solução: abcd
+eueue
+Q1_Karnaugh;[True, '000'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;15_24_2;15_24_6;14_2_40;['SHOW_SOLUTION'];Solução: abcd
+Q1_Karnaugh;[False, '10'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;15_26_28;15_26_37;14_2_40;['SHOW_SOLUTION'];Solução: ..
+Q1_Karnaugh;[False, '.0.'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;15_26_57;15_27_14;14_2_40;['SHOW_SOLUTION'];Solução: ...
+Q1_Karnaugh;[False, '.0.'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;15_27_14;15_27_38;14_2_40;['SHOW_SOLUTION'];Solução: .0.
+Q1_Karnaugh;[False, '.0.'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;15_27_38;15_28_0;14_2_40;['SHOW_SOLUTION'];Solução: .0.
+Q1_Karnaugh;[False, '.0.'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;15_28_0;15_28_16;14_2_40;['SHOW_SOLUTION'];Solução: ...
+eueue
+Q1_Karnaugh;[True, '.0.'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;15_28_16;15_28_49;14_2_40;['SHOW_SOLUTION'];Solução: .~b.
+Q1_Karnaugh;[False, '.0.'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;15_28_49;15_28_54;14_2_40;['SHOW_SOLUTION'];Solução: .~b.
+Q1_Karnaugh;[False, '.0.'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;15_28_54;15_28_57;14_2_40;[]
+eueue
+Q1_Karnaugh;[True, '1.'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;15_29_1;15_29_9;14_2_40;[]
+Q1_Karnaugh;[False, '..1.'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;15_29_42;15_29_48;14_2_40;['SHOW_SOLUTION'];Solução: ..c.
+Q1_Karnaugh;[False, '..1.'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;15_29_48;15_29_57;14_2_40;['SHOW_SOLUTION'];Solução: ..c.
+eueue
+Q1_Karnaugh;[True, '..1.'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;15_29_57;15_30_6;14_2_40;['SHOW_SOLUTION'];Solução: ..c.
+Q1_Karnaugh;[False, '...0'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;15_30_33;15_31_1;14_2_40;['SHOW_SOLUTION'];Solução: ...~d
+Q1_Karnaugh;[False, '..'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;15_32_54;15_32_57;14_2_40;[]
+Q1_Karnaugh;[False, '.11'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;15_34_25;15_34_28;14_2_40;[]
+eueue
+Q1_Karnaugh;[True, '11.'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;15_36_28;15_36_44;14_2_40;['SHOW_SOLUTION'];Solução: ab.
+eueue
+Q1_Karnaugh;[True, '001.'];6bcf6daf-f778-4fdc-8ae9-56ea7abd2a0c;15_36_51;15_37_5;14_2_40;[]
+Q1_Karnaugh;[False, '.111'];cf579544-db8a-40f4-848c-4fc9ab94da72;19_39_46;19_39_51;19_39_22;['SHOW_SOLUTION'];Solução: .bcd
+eueue
+Q1_Karnaugh;[True, '.111'];cf579544-db8a-40f4-848c-4fc9ab94da72;19_39_51;19_40_20;19_39_22;['SHOW_SOLUTION'];Solução: .bcd
+Q1_Karnaugh;[False, '.1..'];cf579544-db8a-40f4-848c-4fc9ab94da72;19_40_35;19_40_38;19_39_22;[]
+Q1_Karnaugh;[False, '.1..'];cf579544-db8a-40f4-848c-4fc9ab94da72;19_40_38;19_44_19;19_39_22;['SHOW_SOLUTION'];Solução: .b..
+Q1_Karnaugh;[False, '.1..'];cf579544-db8a-40f4-848c-4fc9ab94da72;19_44_19;19_44_26;19_39_22;['SHOW_SOLUTION'];Solução: .b..
+Q1_Karnaugh;[False, '10.1'];a8657067-3de4-477b-8b4d-3b1cf30a44d1;0_40_53;0_40_56;0_39_35;[]
+Q1_Karnaugh;[False, '10.1'];a8657067-3de4-477b-8b4d-3b1cf30a44d1;0_40_56;0_43_36;0_39_35;[]
+Q1_Karnaugh;[True, '..0.'];c5d1679b-72df-4b8e-b612-38670dae8f4d;16_7_24;16_7_46;16_6_0;[]
+Q1_Karnaugh;[False, '1.10'];c5d1679b-72df-4b8e-b612-38670dae8f4d;16_7_56;16_8_3;16_6_0;[]
+Q1_Karnaugh;[True, '1.10'];c5d1679b-72df-4b8e-b612-38670dae8f4d;16_8_3;16_8_31;16_6_0;['SHOW_SOLUTION'];Solução: a.c~d
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;11_38_43;11_38_48;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;11_38_48;11_45_31;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;11_45_31;11_46_21;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;11_46_21;11_47_57;11_38_32;[]
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;11_47_57;11_48_40;11_38_32;[]
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;11_48_40;11_50_11;11_38_32;[]
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;11_50_11;11_50_13;11_38_32;[]
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;11_50_13;11_50_16;11_38_32;[]
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;11_50_16;11_50_41;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;11_50_41;11_51_8;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;11_51_8;12_2_18;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_2_18;12_7_21;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_7_21;12_7_24;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_7_24;12_7_26;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_7_26;12_7_30;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_7_30;12_8_29;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_8_29;12_9_35;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_9_35;12_9_52;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_9_52;12_9_58;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_9_58;12_26_27;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_26_27;12_26_30;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_26_30;12_26_37;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_26_37;12_26_39;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_26_39;12_26_41;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_26_41;12_27_45;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_27_45;12_27_48;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_27_48;12_27_51;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_27_51;12_28_27;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_28_27;12_28_29;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_28_29;12_28_31;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_28_31;12_28_32;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_28_32;12_28_33;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_28_33;12_28_35;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_28_35;12_28_37;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_28_37;12_28_39;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_28_39;12_28_41;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_28_41;12_28_42;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_28_42;12_30_40;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_30_40;12_30_43;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_30_43;12_30_44;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_30_44;12_30_46;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_30_46;12_30_47;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_30_47;12_30_49;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_30_49;12_30_49;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_30_49;12_30_51;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_30_51;12_30_52;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_30_52;12_30_53;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_30_53;12_30_54;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_30_54;12_31_8;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_31_8;12_31_10;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_31_10;12_31_11;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_31_11;12_31_13;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_31_13;12_31_26;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_31_26;12_31_27;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_31_27;12_31_29;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_31_29;12_31_31;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_31_31;12_31_32;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_31_32;12_31_34;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_31_34;12_31_37;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_31_37;12_31_39;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_31_39;12_31_40;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_31_40;12_31_42;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_31_42;12_31_44;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_31_44;12_31_56;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_31_56;12_32_0;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_32_0;12_32_2;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_32_2;12_32_4;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_32_4;12_32_6;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_32_6;12_32_9;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_32_9;12_32_11;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_32_11;12_32_13;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_32_13;12_32_15;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_32_15;12_33_2;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_33_2;12_33_5;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_33_5;12_33_7;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_33_7;12_33_8;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_33_8;12_33_10;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_33_10;12_33_11;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_33_11;12_33_13;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_33_13;12_33_15;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_33_15;12_33_17;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_33_17;12_33_19;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_33_19;12_33_20;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_33_20;12_33_21;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_33_21;12_36_15;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_36_15;12_36_18;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_36_18;12_36_19;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_36_19;12_36_20;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_36_20;12_36_21;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_36_21;12_36_21;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_36_21;12_36_21;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_36_21;12_36_22;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '0101'];b37e8cbd-001d-4fe4-bc19-2788b297644b;12_36_22;12_36_23;11_38_32;['SHOW_SOLUTION'];Solução: ~ab~cd
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_42_56;12_42_59;12_39_56;[]
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_42_59;12_43_38;12_39_56;[]
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_43_38;12_45_33;12_39_56;[]
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_45_33;12_45_44;12_39_56;[]
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_45_44;12_46_10;12_39_56;['SHOW_SOLUTION'];Solução: a.~c~d
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_46_10;12_46_16;12_39_56;['SHOW_SOLUTION'];Solução: a.~c~d
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_46_16;12_47_54;12_39_56;['SHOW_SOLUTION'];Solução: a.~c~d
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_47_54;12_48_6;12_39_56;['SHOW_SOLUTION'];Solução: a.~c~d
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_48_6;12_49_24;12_39_56;['SHOW_SOLUTION'];Solução: a.~c~d
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_49_24;12_49_26;12_39_56;['SHOW_SOLUTION'];Solução: a.~c~d
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_49_26;12_49_27;12_39_56;['SHOW_SOLUTION'];Solução: a.~c~d
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_49_27;12_49_29;12_39_56;['SHOW_SOLUTION'];Solução: a.~c~d
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_49_29;12_49_32;12_39_56;['SHOW_SOLUTION'];Solução: a.~c~d
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_49_32;12_49_36;12_39_56;[]
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_49_36;12_49_38;12_39_56;['SHOW_SOLUTION'];Solução: a.~c~d
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_49_38;12_49_41;12_39_56;[]
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_49_41;12_49_44;12_39_56;['SHOW_SOLUTION'];Solução: a.~c~d
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_49_44;12_55_48;12_39_56;['SHOW_SOLUTION'];Solução: a.~c~d
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_55_48;12_55_56;12_39_56;['SHOW_SOLUTION'];Solução: a.~c~d
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_55_56;12_55_58;12_39_56;['SHOW_SOLUTION'];Solução: a.~c~d
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_55_58;12_56_0;12_39_56;['SHOW_SOLUTION'];Solução: a.~c~d
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_56_0;12_56_1;12_39_56;['SHOW_SOLUTION'];Solução: a.~c~d
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_56_1;12_56_3;12_39_56;['SHOW_SOLUTION'];Solução: a.~c~d
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_56_3;12_56_4;12_39_56;['SHOW_SOLUTION'];Solução: a.~c~d
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_56_4;12_56_9;12_39_56;[]
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_56_9;12_56_11;12_39_56;[]
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_56_11;12_56_13;12_39_56;[]
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_56_13;12_57_24;12_39_56;[]
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_57_24;12_57_26;12_39_56;[]
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_57_26;12_57_27;12_39_56;[]
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_57_27;12_57_29;12_39_56;[]
+Q1_Karnaugh;[False, '1.00'];b9a34c48-7fb8-4110-80ef-d9aa8945f1e0;12_57_29;12_57_30;12_39_56;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_37;16_23_40;16_15_34;[]
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_40;16_40_8;16_15_34;['SHOW_SOLUTION'];Solução: ab~cd
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_40;16_40_8;16_15_34;['SHOW_SOLUTION'];Solução: ab~cd
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_40;16_40_8;16_15_34;['SHOW_SOLUTION'];Solução: ab~cd
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_40;16_40_8;16_15_34;['SHOW_SOLUTION'];Solução: ab~cd
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_40;16_40_8;16_15_34;['SHOW_SOLUTION'];Solução: ab~cd
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_40;16_40_8;16_15_34;['SHOW_SOLUTION'];Solução: ab~cd
+Q1_Karnaugh;[False, '1101'];429aa506-40c4-4025-895e-159f19a8e114;16_23_40;16_40_8;16_15_34;['SHOW_SOLUTION'];Solução: ab~cd
+Q1_Karnaugh;[False, '01.1'];429aa506-40c4-4025-895e-159f19a8e114;16_46_22;16_46_28;16_15_34;['SHOW_SOLUTION'];Solução: ~ab.d
+Q1_Karnaugh;[False, '11.'];429aa506-40c4-4025-895e-159f19a8e114;16_46_55;16_47_0;16_15_34;['SHOW_SOLUTION'];Solução: ab.
+Q1_Karnaugh;[False, '000'];429aa506-40c4-4025-895e-159f19a8e114;16_47_25;16_47_30;16_15_34;['SHOW_SOLUTION'];Solução: ~a~b~c
+Q1_Karnaugh;[False, '000'];429aa506-40c4-4025-895e-159f19a8e114;16_47_30;16_47_54;16_15_34;['SHOW_SOLUTION'];Solução: ~a~b~c
+Q1_Karnaugh;[False, '000'];429aa506-40c4-4025-895e-159f19a8e114;16_47_54;16_47_57;16_15_34;['SHOW_SOLUTION'];Solução: ~a~b~c
+Q1_Karnaugh;[False, '000'];429aa506-40c4-4025-895e-159f19a8e114;16_47_57;16_47_59;16_15_34;['SHOW_SOLUTION'];Solução: ~a~b~c
+Q1_Karnaugh;[False, '000'];429aa506-40c4-4025-895e-159f19a8e114;16_47_59;16_48_2;16_15_34;['SHOW_SOLUTION'];Solução: ~a~b~c
+Q1_Karnaugh;[False, '.00.'];7f29f35a-5b16-4f4e-ad3d-9086ffc44606;14_17_59;14_18_3;14_17_43;['SHOW_SOLUTION'];Solução: .~b~c.

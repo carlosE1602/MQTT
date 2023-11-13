@@ -1,0 +1,161 @@
+[
+    {
+        "id": "dd9c0da438bfe079",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "38df12535cbd4428",
+        "type": "junction",
+        "z": "dd9c0da438bfe079",
+        "x": 297,
+        "y": 330,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "97c00e62705a85e6",
+        "type": "mqtt in",
+        "z": "dd9c0da438bfe079",
+        "name": "",
+        "topic": "inf450/2023/Colab_Cache/#",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "4329162ed19b471c",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 340,
+        "y": 320,
+        "wires": [
+            [
+                "615ef918d1ce9374",
+                "4ed206f34a0ca9c3",
+                "ae1d178ce5c17c8e"
+            ]
+        ]
+    },
+    {
+        "id": "615ef918d1ce9374",
+        "type": "debug",
+        "z": "dd9c0da438bfe079",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 760,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "4ed206f34a0ca9c3",
+        "type": "csv",
+        "z": "dd9c0da438bfe079",
+        "name": "",
+        "sep": ",",
+        "hdrin": false,
+        "hdrout": "once",
+        "multi": "one",
+        "ret": "\\n",
+        "temp": "Pergunta,Resposta,Matricula,HoraInicio,HoraSub,HoraSessao",
+        "skip": "0",
+        "strings": true,
+        "include_empty_strings": "",
+        "include_null_values": "",
+        "x": 790,
+        "y": 440,
+        "wires": [
+            [
+                "10ebdebc0b5342a8"
+            ]
+        ]
+    },
+    {
+        "id": "ae1d178ce5c17c8e",
+        "type": "file",
+        "z": "dd9c0da438bfe079",
+        "name": "",
+        "filename": "/home/carlos_sabino/node_red_csvs/data.csv",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": true,
+        "overwriteFile": "false",
+        "encoding": "utf8",
+        "x": 700,
+        "y": 640,
+        "wires": [
+            [
+                "180b4e35ebaa0ff9"
+            ]
+        ]
+    },
+    {
+        "id": "10ebdebc0b5342a8",
+        "type": "debug",
+        "z": "dd9c0da438bfe079",
+        "name": "debug 2",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1180,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "180b4e35ebaa0ff9",
+        "type": "debug",
+        "z": "dd9c0da438bfe079",
+        "name": "debug 3",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "4329162ed19b471c",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "broker.emqx.io",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    }
+]

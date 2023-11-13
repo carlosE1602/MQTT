@@ -1,0 +1,225 @@
+[
+    {
+        "id": "a67a80f71e736814",
+        "type": "tab",
+        "label": "Mapa de Karnaugh",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "55c078f45f71b6e1",
+        "type": "exec",
+        "z": "a67a80f71e736814",
+        "command": "python3 /home/carlos_sabino/TCC/scripts/karnaugh.py",
+        "addpay": "payload",
+        "append": "",
+        "useSpawn": "true",
+        "timer": "4",
+        "winHide": false,
+        "oldrc": false,
+        "name": "main.py",
+        "x": 680,
+        "y": 560,
+        "wires": [
+            [
+                "55032eb085b3f0a1",
+                "7746a4767efe35d7",
+                "62b96c569ba6b357"
+            ],
+            [
+                "5de4f2444ba74368"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "ed554e0b9968c32a",
+        "type": "mqtt in",
+        "z": "a67a80f71e736814",
+        "name": "",
+        "topic": "INF150/2023/karnaugh/#",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "4329162ed19b471c",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 110,
+        "y": 280,
+        "wires": [
+            [
+                "0633253ea3c5fc49"
+            ]
+        ]
+    },
+    {
+        "id": "4db1950b6054fe29",
+        "type": "mqtt out",
+        "z": "a67a80f71e736814",
+        "name": "",
+        "topic": "",
+        "qos": "2",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "4329162ed19b471c",
+        "x": 1090,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "55032eb085b3f0a1",
+        "type": "debug",
+        "z": "a67a80f71e736814",
+        "name": "Main output",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 950,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "4aaeab94fa551b79",
+        "type": "debug",
+        "z": "a67a80f71e736814",
+        "name": "Formated_input",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 640,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "0633253ea3c5fc49",
+        "type": "function",
+        "z": "a67a80f71e736814",
+        "name": "formatInput()",
+        "func": "\nreturn {...msg, payload:JSON.stringify(msg.payload)};",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 390,
+        "y": 520,
+        "wires": [
+            [
+                "4aaeab94fa551b79",
+                "55c078f45f71b6e1"
+            ]
+        ]
+    },
+    {
+        "id": "7746a4767efe35d7",
+        "type": "function",
+        "z": "a67a80f71e736814",
+        "name": "setTopic()",
+        "func": "const response = msg.payload.split(\";\")\nconst solution = response[1].split(',')[0]\nconst params = response.length > 6  ? response[6] : null\n\nif(!solution || !response){\n    return {\n        payload: \"Some ERROR occur in the execution, please try again!\",\n        topic: \"solution/\"+response[2]\n    }\n}\n\nconst payload = [solution.replace(\"[\", \"\")]\n\nif(params && params.includes(\"SHOW_SOLUTION\")){\n    payload.push(response[7])\n}\n\nconst newMsg = {\n    \"payload\": payload,\n    \"topic\": \"solution/\"+response[2],\n\n}\nreturn newMsg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 920,
+        "y": 500,
+        "wires": [
+            [
+                "4db1950b6054fe29",
+                "596ae4ee7de155cd"
+            ]
+        ]
+    },
+    {
+        "id": "62b96c569ba6b357",
+        "type": "file",
+        "z": "a67a80f71e736814",
+        "name": "generateCsv()",
+        "filename": "/home/carlos_sabino/TCC/data/teste_karnaugh.csv",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "none",
+        "x": 900,
+        "y": 220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5de4f2444ba74368",
+        "type": "debug",
+        "z": "a67a80f71e736814",
+        "name": "debug 9",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 900,
+        "y": 880,
+        "wires": []
+    },
+    {
+        "id": "596ae4ee7de155cd",
+        "type": "debug",
+        "z": "a67a80f71e736814",
+        "name": "debug 10",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1220,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "4329162ed19b471c",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "broker.emqx.io",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    }
+]
