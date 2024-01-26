@@ -1,4 +1,4 @@
-# MQTT Study Repository 2023
+# MQTT Study Repository
 
 ## Introduction
 
